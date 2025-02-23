@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1740306285.88141 "c:/Users/eliha/vsc/cove/latex/cv.tex" "cv.pdf" "cv" 1740306286.52924 0
-  "C:/Users/eliha/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1740306238 81245 b430549db98beb1d3a03071ea49cab66 ""
+["pdflatex"] 1740323850.10413 "c:/Users/eliha/vsc/cove/latex/cv.tex" "cv.pdf" "cv" 1740323850.92347 0
+  "C:/Users/eliha/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1740306458 81424 302ea179ecbb90d8ef2108b3618d82bc ""
   "C:/Users/eliha/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk" 1740306241 14064 d6c3df13baf9ce4cea1f8cdf70063057 ""
   "C:/Users/eliha/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1740306053 12015543 aa3db9ee964a89836856e70e628e7705 ""
   "C:/Users/eliha/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome/fontawesometwo.enc" 1463869852 2679 32dd8ae231bf4a0752b98f62dc097183 ""
@@ -68,10 +68,10 @@
   "C:/Users/eliha/AppData/Local/Programs/MiKTeX/tex/latex/titlesec/titlesec.sty" 1736608268 48766 87a17a4ef312a39cd43896e34a679a56 ""
   "C:/Users/eliha/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/eliha/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
-  "c:/Users/eliha/vsc/cove/latex/cv.tex" 1740306284 2174 c893c1dc7f1d67743058541e34e6f756 ""
-  "cv.aux" 1740306286 588 94d807c4055b1b80266654623f616890 "pdflatex"
-  "cv.out" 1740306286 356 96c1711705e7f448cd02e94c95cd959b "pdflatex"
-  "cv.tex" 1740306284 2174 c893c1dc7f1d67743058541e34e6f756 ""
+  "c:/Users/eliha/vsc/cove/latex/cv.tex" 1740323849 2166 2f75ddf943e52a7576aa1cb3af540df5 ""
+  "cv.aux" 1740323850 588 94d807c4055b1b80266654623f616890 "pdflatex"
+  "cv.out" 1740323850 356 96c1711705e7f448cd02e94c95cd959b "pdflatex"
+  "cv.tex" 1740323849 2166 2f75ddf943e52a7576aa1cb3af540df5 ""
   "cvpp.png" 1740305467 269061 14e609eb8f95defd5dc385f10e11f29c ""
   (generated)
   "cv.aux"
