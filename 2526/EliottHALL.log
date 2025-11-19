@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2025.10.9)  19 NOV 2025 10:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2025.10.9)  19 NOV 2025 12:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**first.tex
-(./first.tex
+**EliottHALL.tex
+(./EliottHALL.tex
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -427,24 +427,23 @@ Package: ocgbase 2024/09/15 v0.24 support package for ocgx2.sty
 \@anim@lineno=\count307
 \@anim@curfield=\count308
 \@anim@@resizeflags=\count309
-) (./first.aux)
-\openout1 = `first.aux'.
+) (./EliottHALL.aux)
+\openout1 = `EliottHALL.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count310
@@ -466,241 +465,56 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
-))
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 24.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 24.
+)){/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <a0,fr0> <a0,fr1> <a0,fr2
+>
+<a0,fr3> <a0,fr4> <a0,fr5> <a0,fr6> <a0,fr7> <a0,fr8> <a0,fr9> <a0,fr10>
+<a0,fr11> <a0,fr12> <a0,fr13> <a0,fr14> <a0,fr15> <a0,fr16> <a0,fr17>
+<a0,fr18> <a0,fr19> <a0,fr20> <a0,fr21> <a0,fr22> <a0,fr23> <a0,fr24>
+<a0,fr25> <a0,fr26> <a0,fr27> <a0,fr28> <a0,fr29> <a0,fr30> <a0,fr31>
+<a0,fr32> <a0,fr33> <a0,fr34> <a0,fr35>
+Overfull \hbox (68.73856pt too wide) in paragraph at lines 8--37
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
 
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 62.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 62.
+ <a1,fr0> <a1,fr1> <a1,fr2> <a1,fr3> <a1,fr4> <a1,fr5> <a1,fr6> <a1,fr7>
+Overfull \hbox (25.07986pt too wide) in paragraph at lines 40--64
+[][][][][][][][][][] 
+ []
 
-[2]
 
-[3]
 
-[4] <a0,fr0> <a0,fr1> <a0,fr2> <a0,fr3> <a0,fr4> <a0,fr5> <a0,fr6> <a0,fr7>
-<a0,fr8> <a0,fr9> <a0,fr10> <a0,fr11> <a0,fr12> <a0,fr13> <a0,fr14> <a0,fr15>
-<a0,fr16> <a0,fr17> <a0,fr18> <a0,fr19> <a0,fr20> <a0,fr21> <a0,fr22>
-<a0,fr23> <a0,fr24> <a0,fr25> <a0,fr26> <a0,fr27> <a0,fr28> <a0,fr29>
-<a0,fr30> <a0,fr31> <a0,fr32> <a0,fr33> <a0,fr34> <a0,fr35> <a0,fr36>
-<a0,fr37> <a0,fr38> <a0,fr39> <a0,fr40> <a0,fr41> <a0,fr42> <a0,fr43>
-<a0,fr44> <a0,fr45> <a0,fr46> <a0,fr47> <a0,fr48> <a0,fr49> <a0,fr50>
-<a0,fr51> <a0,fr52> <a0,fr53> <a0,fr54> <a0,fr55> <a0,fr56> <a0,fr57>
-<a0,fr58> <a0,fr59> <a0,fr60> <a0,fr61> <a0,fr62> <a0,fr63> <a0,fr64>
-<a0,fr65> <a0,fr66> <a0,fr67> <a0,fr68> <a0,fr69> <a0,fr70> <a0,fr71>
-<a0,fr72> <a0,fr73> <a0,fr74> <a0,fr75> <a0,fr76> <a0,fr77> <a0,fr78>
-<a0,fr79> <a0,fr80> <a0,fr81> <a0,fr82> <a0,fr83> <a0,fr84> <a0,fr85>
-<a0,fr86> <a0,fr87> <a0,fr88> <a0,fr89> <a0,fr90> <a0,fr91> <a0,fr92>
-<a0,fr93> <a0,fr94> <a0,fr95> <a0,fr96> <a0,fr97> <a0,fr98> <a0,fr99>
-<a0,fr100> <a0,fr101> <a0,fr102> <a0,fr103> <a0,fr104> <a0,fr105> <a0,fr106>
-<a0,fr107> <a0,fr108> <a0,fr109> <a0,fr110> <a0,fr111> <a0,fr112> <a0,fr113>
-<a0,fr114> <a0,fr115> <a0,fr116> <a0,fr117> <a0,fr118> <a0,fr119>
-
-[5] <a1,fr0> <a1,fr1> <a1,fr2> <a1,fr3> <a1,fr4> <a1,fr5> <a1,fr6> <a1,fr7>
-<a1,fr8> <a1,fr9> <a1,fr10> <a1,fr11> <a1,fr12> <a1,fr13> <a1,fr14> <a1,fr15>
-<a1,fr16> <a1,fr17> <a1,fr18> <a1,fr19> <a1,fr20> <a1,fr21> <a1,fr22>
-<a1,fr23> <a1,fr24> <a1,fr25> <a1,fr26> <a1,fr27> <a1,fr28> <a1,fr29>
-<a1,fr30> <a1,fr31> <a1,fr32> <a1,fr33> <a1,fr34> <a1,fr35> <a1,fr36>
-<a1,fr37> <a1,fr38> <a1,fr39> <a1,fr40> <a1,fr41> <a1,fr42> <a1,fr43>
-<a1,fr44> <a1,fr45> <a1,fr46> <a1,fr47> <a1,fr48> <a1,fr49> <a1,fr50>
-<a1,fr51> <a1,fr52> <a1,fr53> <a1,fr54> <a1,fr55> <a1,fr56> <a1,fr57>
-<a1,fr58> <a1,fr59> <a1,fr60> <a1,fr61> <a1,fr62> <a1,fr63> <a1,fr64>
-<a1,fr65> <a1,fr66> <a1,fr67> <a1,fr68> <a1,fr69> <a1,fr70> <a1,fr71>
-<a1,fr72> <a1,fr73> <a1,fr74> <a1,fr75> <a1,fr76> <a1,fr77> <a1,fr78>
-<a1,fr79> <a1,fr80> <a1,fr81> <a1,fr82> <a1,fr83> <a1,fr84> <a1,fr85>
-<a1,fr86> <a1,fr87> <a1,fr88> <a1,fr89> <a1,fr90> <a1,fr91> <a1,fr92>
-<a1,fr93> <a1,fr94> <a1,fr95> <a1,fr96> <a1,fr97> <a1,fr98> <a1,fr99>
-<a1,fr100> <a1,fr101> <a1,fr102> <a1,fr103> <a1,fr104> <a1,fr105> <a1,fr106>
-<a1,fr107> <a1,fr108> <a1,fr109> <a1,fr110> <a1,fr111> <a1,fr112> <a1,fr113>
-<a1,fr114> <a1,fr115> <a1,fr116> <a1,fr117> <a1,fr118> <a1,fr119> <a1,fr120>
-<a1,fr121> <a1,fr122> <a1,fr123> <a1,fr124> <a1,fr125> <a1,fr126> <a1,fr127>
-<a1,fr128> <a1,fr129> <a1,fr130> <a1,fr131> <a1,fr132> <a1,fr133> <a1,fr134>
-<a1,fr135> <a1,fr136> <a1,fr137> <a1,fr138> <a1,fr139> <a1,fr140> <a1,fr141>
-<a1,fr142> <a1,fr143> <a1,fr144> <a1,fr145> <a1,fr146> <a1,fr147> <a1,fr148>
-<a1,fr149> <a1,fr150> <a1,fr151> <a1,fr152> <a1,fr153> <a1,fr154> <a1,fr155>
-<a1,fr156> <a1,fr157> <a1,fr158> <a1,fr159> <a1,fr160> <a1,fr161> <a1,fr162>
-<a1,fr163> <a1,fr164> <a1,fr165> <a1,fr166> <a1,fr167> <a1,fr168> <a1,fr169>
-<a1,fr170> <a1,fr171> <a1,fr172> <a1,fr173> <a1,fr174> <a1,fr175> <a1,fr176>
-<a1,fr177> <a1,fr178> <a1,fr179> <a1,fr180> <a1,fr181> <a1,fr182> <a1,fr183>
-<a1,fr184> <a1,fr185> <a1,fr186> <a1,fr187> <a1,fr188> <a1,fr189> <a1,fr190>
-<a1,fr191> <a1,fr192> <a1,fr193> <a1,fr194> <a1,fr195> <a1,fr196> <a1,fr197>
-<a1,fr198> <a1,fr199> <a1,fr200> <a1,fr201> <a1,fr202> <a1,fr203> <a1,fr204>
-<a1,fr205> <a1,fr206> <a1,fr207> <a1,fr208> <a1,fr209> <a1,fr210> <a1,fr211>
-<a1,fr212> <a1,fr213> <a1,fr214> <a1,fr215> <a1,fr216> <a1,fr217> <a1,fr218>
-<a1,fr219> <a1,fr220> <a1,fr221> <a1,fr222> <a1,fr223> <a1,fr224> <a1,fr225>
-<a1,fr226> <a1,fr227> <a1,fr228> <a1,fr229> <a1,fr230> <a1,fr231> <a1,fr232>
-<a1,fr233> <a1,fr234> <a1,fr235> <a1,fr236> <a1,fr237> <a1,fr238> <a1,fr239>
-<a1,fr240> <a1,fr241> <a1,fr242> <a1,fr243> <a1,fr244> <a1,fr245> <a1,fr246>
-<a1,fr247> <a1,fr248> <a1,fr249> <a1,fr250> <a1,fr251> <a1,fr252> <a1,fr253>
-<a1,fr254> <a1,fr255> <a1,fr256> <a1,fr257> <a1,fr258> <a1,fr259> <a1,fr260>
-<a1,fr261> <a1,fr262> <a1,fr263> <a1,fr264> <a1,fr265> <a1,fr266> <a1,fr267>
-<a1,fr268> <a1,fr269> <a1,fr270> <a1,fr271> <a1,fr272> <a1,fr273> <a1,fr274>
-<a1,fr275> <a1,fr276> <a1,fr277> <a1,fr278> <a1,fr279> <a1,fr280> <a1,fr281>
-<a1,fr282> <a1,fr283> <a1,fr284> <a1,fr285> <a1,fr286> <a1,fr287> <a1,fr288>
-<a1,fr289> <a1,fr290> <a1,fr291> <a1,fr292> <a1,fr293> <a1,fr294> <a1,fr295>
-<a1,fr296> <a1,fr297> <a1,fr298> <a1,fr299> <a1,fr300> <a1,fr301> <a1,fr302>
-<a1,fr303> <a1,fr304> <a1,fr305> <a1,fr306> <a1,fr307> <a1,fr308> <a1,fr309>
-<a1,fr310> <a1,fr311> <a1,fr312> <a1,fr313> <a1,fr314> <a1,fr315> <a1,fr316>
-<a1,fr317> <a1,fr318> <a1,fr319> <a1,fr320> <a1,fr321> <a1,fr322> <a1,fr323>
-<a1,fr324> <a1,fr325> <a1,fr326> <a1,fr327> <a1,fr328> <a1,fr329> <a1,fr330>
-<a1,fr331> <a1,fr332> <a1,fr333> <a1,fr334> <a1,fr335> <a1,fr336> <a1,fr337>
-<a1,fr338> <a1,fr339> <a1,fr340> <a1,fr341> <a1,fr342> <a1,fr343> <a1,fr344>
-<a1,fr345> <a1,fr346> <a1,fr347> <a1,fr348> <a1,fr349> <a1,fr350> <a1,fr351>
-<a1,fr352> <a1,fr353> <a1,fr354> <a1,fr355> <a1,fr356> <a1,fr357> <a1,fr358>
-<a1,fr359> <a1,fr360> <a1,fr361> <a1,fr362> <a1,fr363> <a1,fr364> <a1,fr365>
-<a1,fr366> <a1,fr367> <a1,fr368> <a1,fr369> <a1,fr370> <a1,fr371> <a1,fr372>
-<a1,fr373> <a1,fr374> <a1,fr375> <a1,fr376> <a1,fr377> <a1,fr378> <a1,fr379>
-<a1,fr380> <a1,fr381> <a1,fr382> <a1,fr383> <a1,fr384> <a1,fr385> <a1,fr386>
-<a1,fr387> <a1,fr388> <a1,fr389> <a1,fr390> <a1,fr391> <a1,fr392> <a1,fr393>
-<a1,fr394> <a1,fr395> <a1,fr396> <a1,fr397> <a1,fr398> <a1,fr399> <a1,fr400>
-<a1,fr401> <a1,fr402> <a1,fr403> <a1,fr404> <a1,fr405> <a1,fr406> <a1,fr407>
-<a1,fr408> <a1,fr409> <a1,fr410> <a1,fr411> <a1,fr412> <a1,fr413> <a1,fr414>
-<a1,fr415> <a1,fr416> <a1,fr417> <a1,fr418> <a1,fr419> <a1,fr420> <a1,fr421>
-<a1,fr422> <a1,fr423> <a1,fr424> <a1,fr425> <a1,fr426> <a1,fr427> <a1,fr428>
-<a1,fr429> <a1,fr430> <a1,fr431> <a1,fr432> <a1,fr433> <a1,fr434> <a1,fr435>
-<a1,fr436> <a1,fr437> <a1,fr438> <a1,fr439> <a1,fr440> <a1,fr441> <a1,fr442>
-<a1,fr443> <a1,fr444> <a1,fr445> <a1,fr446> <a1,fr447> <a1,fr448> <a1,fr449>
-<a1,fr450> <a1,fr451> <a1,fr452> <a1,fr453> <a1,fr454> <a1,fr455> <a1,fr456>
-<a1,fr457> <a1,fr458> <a1,fr459> <a1,fr460> <a1,fr461> <a1,fr462> <a1,fr463>
-<a1,fr464> <a1,fr465> <a1,fr466> <a1,fr467> <a1,fr468> <a1,fr469> <a1,fr470>
-<a1,fr471> <a1,fr472> <a1,fr473> <a1,fr474> <a1,fr475> <a1,fr476> <a1,fr477>
-<a1,fr478> <a1,fr479> <a1,fr480> <a1,fr481> <a1,fr482> <a1,fr483> <a1,fr484>
-<a1,fr485> <a1,fr486> <a1,fr487> <a1,fr488> <a1,fr489> <a1,fr490> <a1,fr491>
-<a1,fr492> <a1,fr493> <a1,fr494> <a1,fr495> <a1,fr496> <a1,fr497> <a1,fr498>
-<a1,fr499> <a1,fr500> <a1,fr501> <a1,fr502> <a1,fr503> <a1,fr504> <a1,fr505>
-<a1,fr506> <a1,fr507> <a1,fr508> <a1,fr509> <a1,fr510> <a1,fr511> <a1,fr512>
-<a1,fr513> <a1,fr514> <a1,fr515> <a1,fr516> <a1,fr517> <a1,fr518> <a1,fr519>
-<a1,fr520> <a1,fr521> <a1,fr522> <a1,fr523> <a1,fr524> <a1,fr525> <a1,fr526>
-<a1,fr527> <a1,fr528> <a1,fr529> <a1,fr530> <a1,fr531> <a1,fr532> <a1,fr533>
-<a1,fr534> <a1,fr535> <a1,fr536> <a1,fr537> <a1,fr538> <a1,fr539> <a1,fr540>
-<a1,fr541> <a1,fr542> <a1,fr543> <a1,fr544> <a1,fr545> <a1,fr546> <a1,fr547>
-<a1,fr548> <a1,fr549> <a1,fr550> <a1,fr551> <a1,fr552> <a1,fr553> <a1,fr554>
-<a1,fr555> <a1,fr556> <a1,fr557> <a1,fr558> <a1,fr559> <a1,fr560> <a1,fr561>
-<a1,fr562> <a1,fr563> <a1,fr564> <a1,fr565> <a1,fr566> <a1,fr567> <a1,fr568>
-<a1,fr569> <a1,fr570> <a1,fr571> <a1,fr572> <a1,fr573> <a1,fr574> <a1,fr575>
-<a1,fr576> <a1,fr577> <a1,fr578> <a1,fr579> <a1,fr580> <a1,fr581> <a1,fr582>
-<a1,fr583> <a1,fr584> <a1,fr585> <a1,fr586> <a1,fr587> <a1,fr588> <a1,fr589>
-<a1,fr590> <a1,fr591> <a1,fr592> <a1,fr593> <a1,fr594> <a1,fr595> <a1,fr596>
-<a1,fr597> <a1,fr598> <a1,fr599> <a1,fr600> <a1,fr601> <a1,fr602> <a1,fr603>
-<a1,fr604> <a1,fr605> <a1,fr606> <a1,fr607> <a1,fr608> <a1,fr609> <a1,fr610>
-<a1,fr611> <a1,fr612> <a1,fr613> <a1,fr614> <a1,fr615> <a1,fr616> <a1,fr617>
-<a1,fr618> <a1,fr619> <a1,fr620> <a1,fr621> <a1,fr622> <a1,fr623> <a1,fr624>
-<a1,fr625> <a1,fr626> <a1,fr627> <a1,fr628> <a1,fr629> <a1,fr630> <a1,fr631>
-<a1,fr632> <a1,fr633> <a1,fr634> <a1,fr635> <a1,fr636> <a1,fr637> <a1,fr638>
-<a1,fr639> <a1,fr640> <a1,fr641> <a1,fr642> <a1,fr643> <a1,fr644> <a1,fr645>
-<a1,fr646> <a1,fr647> <a1,fr648> <a1,fr649> <a1,fr650> <a1,fr651> <a1,fr652>
-<a1,fr653> <a1,fr654> <a1,fr655> <a1,fr656> <a1,fr657> <a1,fr658> <a1,fr659>
-<a1,fr660> <a1,fr661> <a1,fr662> <a1,fr663> <a1,fr664> <a1,fr665> <a1,fr666>
-<a1,fr667> <a1,fr668> <a1,fr669> <a1,fr670> <a1,fr671> <a1,fr672> <a1,fr673>
-<a1,fr674> <a1,fr675> <a1,fr676> <a1,fr677> <a1,fr678> <a1,fr679> <a1,fr680>
-<a1,fr681> <a1,fr682> <a1,fr683> <a1,fr684> <a1,fr685> <a1,fr686> <a1,fr687>
-<a1,fr688> <a1,fr689> <a1,fr690> <a1,fr691> <a1,fr692> <a1,fr693> <a1,fr694>
-<a1,fr695> <a1,fr696> <a1,fr697> <a1,fr698> <a1,fr699> <a1,fr700> <a1,fr701>
-<a1,fr702> <a1,fr703> <a1,fr704> <a1,fr705> <a1,fr706> <a1,fr707> <a1,fr708>
-<a1,fr709> <a1,fr710> <a1,fr711> <a1,fr712> <a1,fr713> <a1,fr714> <a1,fr715>
-<a1,fr716> <a1,fr717> <a1,fr718> <a1,fr719> <a1,fr720> <a1,fr721> <a1,fr722>
-<a1,fr723> <a1,fr724> <a1,fr725> <a1,fr726> <a1,fr727> <a1,fr728> <a1,fr729>
-<a1,fr730> <a1,fr731> <a1,fr732> <a1,fr733> <a1,fr734> <a1,fr735> <a1,fr736>
-<a1,fr737> <a1,fr738> <a1,fr739> <a1,fr740> <a1,fr741> <a1,fr742> <a1,fr743>
-<a1,fr744> <a1,fr745> <a1,fr746> <a1,fr747> <a1,fr748> <a1,fr749> <a1,fr750>
-<a1,fr751> <a1,fr752> <a1,fr753> <a1,fr754> <a1,fr755> <a1,fr756> <a1,fr757>
-<a1,fr758> <a1,fr759> <a1,fr760> <a1,fr761> <a1,fr762> <a1,fr763> <a1,fr764>
-<a1,fr765> <a1,fr766> <a1,fr767> <a1,fr768> <a1,fr769> <a1,fr770> <a1,fr771>
-<a1,fr772> <a1,fr773> <a1,fr774> <a1,fr775> <a1,fr776> <a1,fr777> <a1,fr778>
-<a1,fr779> <a1,fr780> <a1,fr781> <a1,fr782> <a1,fr783> <a1,fr784> <a1,fr785>
-<a1,fr786> <a1,fr787> <a1,fr788> <a1,fr789> <a1,fr790> <a1,fr791> <a1,fr792>
-<a1,fr793> <a1,fr794> <a1,fr795> <a1,fr796> <a1,fr797> <a1,fr798> <a1,fr799>
-<a1,fr800> <a1,fr801> <a1,fr802> <a1,fr803> <a1,fr804> <a1,fr805> <a1,fr806>
-<a1,fr807> <a1,fr808> <a1,fr809> <a1,fr810> <a1,fr811> <a1,fr812> <a1,fr813>
-<a1,fr814> <a1,fr815> <a1,fr816> <a1,fr817> <a1,fr818> <a1,fr819> <a1,fr820>
-<a1,fr821> <a1,fr822> <a1,fr823> <a1,fr824> <a1,fr825> <a1,fr826> <a1,fr827>
-<a1,fr828> <a1,fr829> <a1,fr830> <a1,fr831> <a1,fr832> <a1,fr833> <a1,fr834>
-<a1,fr835> <a1,fr836> <a1,fr837> <a1,fr838> <a1,fr839> <a1,fr840> <a1,fr841>
-<a1,fr842> <a1,fr843> <a1,fr844> <a1,fr845> <a1,fr846> <a1,fr847> <a1,fr848>
-<a1,fr849> <a1,fr850> <a1,fr851> <a1,fr852> <a1,fr853> <a1,fr854> <a1,fr855>
-<a1,fr856> <a1,fr857> <a1,fr858> <a1,fr859> <a1,fr860> <a1,fr861> <a1,fr862>
-<a1,fr863> <a1,fr864> <a1,fr865> <a1,fr866> <a1,fr867> <a1,fr868> <a1,fr869>
-<a1,fr870> <a1,fr871> <a1,fr872> <a1,fr873> <a1,fr874> <a1,fr875> <a1,fr876>
-<a1,fr877> <a1,fr878> <a1,fr879> <a1,fr880> <a1,fr881> <a1,fr882> <a1,fr883>
-<a1,fr884> <a1,fr885> <a1,fr886> <a1,fr887> <a1,fr888> <a1,fr889> <a1,fr890>
-<a1,fr891> <a1,fr892> <a1,fr893> <a1,fr894> <a1,fr895> <a1,fr896> <a1,fr897>
-<a1,fr898> <a1,fr899> <a1,fr900> <a1,fr901> <a1,fr902> <a1,fr903> <a1,fr904>
-<a1,fr905> <a1,fr906> <a1,fr907> <a1,fr908> <a1,fr909> <a1,fr910> <a1,fr911>
-<a1,fr912> <a1,fr913> <a1,fr914> <a1,fr915> <a1,fr916> <a1,fr917> <a1,fr918>
-<a1,fr919> <a1,fr920> <a1,fr921> <a1,fr922> <a1,fr923> <a1,fr924> <a1,fr925>
-<a1,fr926> <a1,fr927> <a1,fr928> <a1,fr929> <a1,fr930> <a1,fr931> <a1,fr932>
-<a1,fr933> <a1,fr934> <a1,fr935> <a1,fr936> <a1,fr937> <a1,fr938> <a1,fr939>
-<a1,fr940> <a1,fr941> <a1,fr942> <a1,fr943> <a1,fr944> <a1,fr945> <a1,fr946>
-<a1,fr947> <a1,fr948> <a1,fr949> <a1,fr950> <a1,fr951> <a1,fr952> <a1,fr953>
-<a1,fr954> <a1,fr955> <a1,fr956> <a1,fr957> <a1,fr958> <a1,fr959> <a1,fr960>
-<a1,fr961> <a1,fr962> <a1,fr963> <a1,fr964> <a1,fr965> <a1,fr966> <a1,fr967>
-<a1,fr968> <a1,fr969> <a1,fr970> <a1,fr971> <a1,fr972> <a1,fr973> <a1,fr974>
-<a1,fr975> <a1,fr976> <a1,fr977> <a1,fr978> <a1,fr979> <a1,fr980> <a1,fr981>
-<a1,fr982> <a1,fr983> <a1,fr984> <a1,fr985> <a1,fr986> <a1,fr987> <a1,fr988>
-<a1,fr989> <a1,fr990> <a1,fr991> <a1,fr992> <a1,fr993> <a1,fr994> <a1,fr995>
-<a1,fr996> <a1,fr997> <a1,fr998> <a1,fr999> <a1,fr1000> <a1,fr1001>
-<a1,fr1002> <a1,fr1003> <a1,fr1004> <a1,fr1005> <a1,fr1006> <a1,fr1007>
-<a1,fr1008> <a1,fr1009> <a1,fr1010> <a1,fr1011> <a1,fr1012> <a1,fr1013>
-<a1,fr1014> <a1,fr1015> <a1,fr1016> <a1,fr1017> <a1,fr1018> <a1,fr1019>
-<a1,fr1020> <a1,fr1021> <a1,fr1022> <a1,fr1023> <a1,fr1024> <a1,fr1025>
-<a1,fr1026> <a1,fr1027> <a1,fr1028> <a1,fr1029> <a1,fr1030> <a1,fr1031>
-<a1,fr1032> <a1,fr1033> <a1,fr1034> <a1,fr1035> <a1,fr1036> <a1,fr1037>
-<a1,fr1038> <a1,fr1039> <a1,fr1040> <a1,fr1041> <a1,fr1042> <a1,fr1043>
-<a1,fr1044> <a1,fr1045> <a1,fr1046> <a1,fr1047> <a1,fr1048> <a1,fr1049>
-<a1,fr1050> <a1,fr1051> <a1,fr1052> <a1,fr1053> <a1,fr1054> <a1,fr1055>
-<a1,fr1056> <a1,fr1057> <a1,fr1058> <a1,fr1059> <a1,fr1060> <a1,fr1061>
-<a1,fr1062> <a1,fr1063> <a1,fr1064> <a1,fr1065> <a1,fr1066> <a1,fr1067>
-<a1,fr1068> <a1,fr1069> <a1,fr1070> <a1,fr1071> <a1,fr1072> <a1,fr1073>
-<a1,fr1074> <a1,fr1075> <a1,fr1076> <a1,fr1077> <a1,fr1078> <a1,fr1079>
-<a1,fr1080> <a1,fr1081> <a1,fr1082> <a1,fr1083> <a1,fr1084> <a1,fr1085>
-<a1,fr1086> <a1,fr1087> <a1,fr1088> <a1,fr1089> <a1,fr1090> <a1,fr1091>
-<a1,fr1092> <a1,fr1093> <a1,fr1094> <a1,fr1095> <a1,fr1096> <a1,fr1097>
-<a1,fr1098> <a1,fr1099> <a1,fr1100> <a1,fr1101> <a1,fr1102> <a1,fr1103>
-<a1,fr1104> <a1,fr1105> <a1,fr1106> <a1,fr1107> <a1,fr1108> <a1,fr1109>
-<a1,fr1110> <a1,fr1111> <a1,fr1112> <a1,fr1113> <a1,fr1114> <a1,fr1115>
-<a1,fr1116> <a1,fr1117> <a1,fr1118> <a1,fr1119> <a1,fr1120> <a1,fr1121>
-<a1,fr1122> <a1,fr1123> <a1,fr1124> <a1,fr1125> <a1,fr1126> <a1,fr1127>
-<a1,fr1128> <a1,fr1129> <a1,fr1130> <a1,fr1131> <a1,fr1132> <a1,fr1133>
-<a1,fr1134> <a1,fr1135> <a1,fr1136> <a1,fr1137> <a1,fr1138> <a1,fr1139>
-<a1,fr1140> <a1,fr1141> <a1,fr1142> <a1,fr1143> <a1,fr1144> <a1,fr1145>
-<a1,fr1146> <a1,fr1147> <a1,fr1148> <a1,fr1149> <a1,fr1150> <a1,fr1151>
-<a1,fr1152> <a1,fr1153> <a1,fr1154> <a1,fr1155> <a1,fr1156> <a1,fr1157>
-<a1,fr1158> <a1,fr1159> <a1,fr1160> <a1,fr1161> <a1,fr1162> <a1,fr1163>
-<a1,fr1164> <a1,fr1165> <a1,fr1166> <a1,fr1167> <a1,fr1168> <a1,fr1169>
-<a1,fr1170> <a1,fr1171> <a1,fr1172> <a1,fr1173> <a1,fr1174> <a1,fr1175>
-<a1,fr1176> <a1,fr1177> <a1,fr1178> <a1,fr1179> <a1,fr1180> <a1,fr1181>
-<a1,fr1182> <a1,fr1183> <a1,fr1184> <a1,fr1185> <a1,fr1186> <a1,fr1187>
-<a1,fr1188> <a1,fr1189> <a1,fr1190> <a1,fr1191> <a1,fr1192> <a1,fr1193>
-<a1,fr1194> <a1,fr1195> <a1,fr1196> <a1,fr1197> <a1,fr1198> <a1,fr1199>
-
-[6]
-
-[7] (./first.aux)
+[2] (./EliottHALL.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 18339 strings out of 473197
- 360992 string characters out of 5718605
- 876243 words of memory out of 5000000
- 41362 multiletter control sequences out of 15000+600000
- 559452 words of font info for 38 fonts, out of 8000000 for 9000
+ 19616 strings out of 473197
+ 417344 string characters out of 5718605
+ 697402 words of memory out of 5000000
+ 42637 multiletter control sequences out of 15000+600000
+ 560071 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 102i,8n,107p,406b,806s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 102i,8n,107p,411b,735s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texl
 ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb>
-Output written on first.pdf (7 pages, 810935 bytes).
+mf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on EliottHALL.pdf (2 pages, 294135 bytes).
 PDF statistics:
- 4100 PDF objects out of 4296 (max. 8388607)
- 2716 compressed objects within 28 object streams
+ 224 PDF objects out of 1000 (max. 8388607)
+ 147 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 8009 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 353 words of extra memory for PDF output out of 10000 (max. 10000000)
 
